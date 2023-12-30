@@ -2,6 +2,6 @@
     list-style: none;
 }
 
-.menu.item:last-child .menu-link {
+.menu-item:last-child .menu-link {
     margin-right: 0;
 }
